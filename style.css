@@ -1,0 +1,52 @@
+
+.parent{
+
+margin: 25px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+align-items: Stretch;
+align-content: stretch;
+}
+
+
+.all{
+
+
+display: flex;
+flex-wrap: wrap;
+
+margin-bottom: 10px;
+margin-right: 10px;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 220px;
+width: 14%;
+
+}
+
+
+.prav{
+    margin-right: 0px;
+
+
+}
+
+.jpg{
+height: 180px;
+width: 120px;
+
+}
+.stb{
+    display: flex;
+    justify-content: center;  
+}
+.fon{
+    background-color: rgb(179, 176, 187);
+}
+
+.zag{
+
+    text-align: center;
+}
